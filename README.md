@@ -77,10 +77,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone 
+$ git clone git clone https://github.com/jetrudes/Food-Explorer.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd + sua pasta + git clone 
+$ cd + sua pasta + git clone git clone https://github.com/jetrudes/Food-Explorer.git
 
 # Instale as dependências
 $ npm install
@@ -105,10 +105,10 @@ $ password: 112233
 ```bash
 
 # Clone este repositório
-$ 
+$ git clone https://github.com/jetrudes/Food-Explorer.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd + sua pasta + git clone 
+$ cd + sua pasta + git clone git clone https://github.com/jetrudes/Food-Explorer.git
 
 
 # Instale as dependências com:
@@ -144,7 +144,7 @@ Neste desafio foram abordados os seguintes temas:
 ---
 ## Deploy do projeto.
 
-
+git clone https://github.com/jetrudes/Food-Explorer.git
 
 ---
 
@@ -152,6 +152,6 @@ Neste desafio foram abordados os seguintes temas:
 
 This project is under the license [MIT](./LICENSE).
 
-Made with ❤️ by Carlos Arújo  [Get in Touch!]()
+Made with ❤️ by Carlos Arújo  [Get in Touch!](https://www.linkedin.com/in/carlos-henrique-de-sousa-ara%C3%BAjo-07a672228/)
 
 ---
